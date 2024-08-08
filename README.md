@@ -29,3 +29,26 @@ To run this project, you need to have Python installed along with the necessary 
 
 ```bash
 pip install -r requirements.txt
+
+
+git clone https://github.com/yourusername/x-tweets-sentiment-analysis.git
+cd x-tweets-sentiment-analysis
+
+Model Training
+The model training script trains a sentiment analysis model using machine learning algorithms such as Logistic Regression, SVM, or a simple neural network. The script train.py handles the training process.
+
+Evaluation
+The evaluation script evaluate.py assesses the performance of the trained model on a test dataset and outputs metrics such as accuracy, precision, recall, and F1-score.
+
+Results
+The results of the sentiment analysis model will be displayed in terms of the aforementioned metrics. Visualization of the results can be found in the notebooks/EDA.ipynb notebook.
+
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for review.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+Feel free to modify the content according to your project's specifics and needs.
