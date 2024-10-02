@@ -29,11 +29,14 @@ To run this project, you need to have Python installed along with the necessary 
 
 ```bash
 pip install -r requirements.txt
+```
 
-
+```bash
 git clone https://github.com/yourusername/x-tweets-sentiment-analysis.git
+```
+```bash
 cd x-tweets-sentiment-analysis
-
+```
 Model Training
 The model training script trains a sentiment analysis model using machine learning algorithms such as Logistic Regression, SVM, or a simple neural network. The script train.py handles the training process.
 
